@@ -1,0 +1,4 @@
+interface:
+  display_name: "Large-scale Single-cell Engineering"
+  short_description: "面向50万以上细胞的磁盘后端、并行调度和可恢复分析"
+  default_prompt: "使用 $large-scale-singlecell-engineering 规划并运行大规模单细胞数据的分块、磁盘后端、检查点和供体级统计工作流。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "富集与GSEA分析"
+  short_description: "GO、KEGG、GSEA富集分析和气泡图交付模板包"
+  default_prompt: "Use $enrichment-analysis to run GO/KEGG/GSEA-style enrichment from my DEG table or gene list."

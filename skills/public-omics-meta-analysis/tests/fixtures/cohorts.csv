@@ -1,0 +1,4 @@
+cohort_id,accession,repository,publication,country,ancestry,tissue,disease_definition,comparator,assay,platform,n_donors,n_samples,paired,role,overlap_group,inclusion_status,exclusion_reason
+C1,GSE1,GEO,PMID1,US,mixed,blood,DiseaseX,control,RNA-seq,P1,20,40,no,discovery,O1,included,
+C2,GSE2,GEO,PMID2,UK,mixed,blood,DiseaseX,control,RNA-seq,P2,24,48,no,replication,O2,included,
+C3,E-MTAB-3,ArrayExpress,PMID3,DE,mixed,blood,DiseaseX,control,RNA-seq,P3,30,60,no,replication,O3,included,

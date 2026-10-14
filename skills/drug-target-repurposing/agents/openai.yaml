@@ -1,0 +1,4 @@
+interface:
+  display_name: "Drug Target Repurposing"
+  short_description: "遗传和多组学支持的靶点验证、老药新用与候选药物优先排序"
+  default_prompt: "使用 $drug-target-repurposing 整合遗传、分子、细胞和药理证据，筛选并排序可干预靶点与候选药物。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "bulkRNA 分析"
+  short_description: "bulkRNA差异分析、火山热图PCA和QC交付模板"
+  default_prompt: "Use $bulkrna-analysis to analyze my bulk RNA-seq count matrix and generate publication-style plots."

@@ -1,0 +1,3 @@
+study_id,source,release,trait,trait_definition,role,ancestry,genome_build,n_total,n_cases,n_controls,unit,sample_overlap,access_date
+study_discovery,UKB,2026,disease_x,algorithmic case definition,discovery,European,GRCh37,100000,10000,90000,log_odds,none,2026-08-06
+study_replication,FinnGen,R12,disease_x,matched registry endpoint,replication,European,GRCh38,90000,9000,81000,log_odds,none,2026-08-06

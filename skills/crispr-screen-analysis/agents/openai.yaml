@@ -1,0 +1,4 @@
+interface:
+  display_name: "CRISPR Screen Analysis"
+  short_description: "MAGeCK-style CRISPR screen analysis figures"
+  default_prompt: "Use $crispr-screen-analysis to analyze my CRISPR screen gene table and generate rank, volcano and pathway figures."

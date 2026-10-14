@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研图件润色"
+  short_description: "统一生信论文图件风格、配色、字体、排版交付工作流模板包"
+  default_prompt: "Use $biofigure-polish to polish my bioinformatics tables and figures into a consistent publication-style figure set."

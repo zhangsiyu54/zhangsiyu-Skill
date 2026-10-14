@@ -1,0 +1,4 @@
+interface:
+  display_name: "Immune Repertoire Analysis"
+  short_description: "TCR, BCR, clonotype and repertoire figures"
+  default_prompt: "Use $immune-repertoire-analysis to analyze my TCR/BCR clonotype tables and generate repertoire diversity and expansion figures."

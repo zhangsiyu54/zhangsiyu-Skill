@@ -1,0 +1,4 @@
+interface:
+  display_name: "Network Pathway Analysis"
+  short_description: "WGCNA, GSVA and pathway scoring workflows"
+  default_prompt: "Use $network-pathway-analysis to find co-expression modules, pathway activity and hub genes from my expression matrix."

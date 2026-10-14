@@ -1,0 +1,15 @@
+{
+  "blue": "#3B82C4",
+  "red": "#D84A4A",
+  "green": "#3FA37A",
+  "amber": "#D99A2B",
+  "purple": "#7C65C1",
+  "text": "#1F2937",
+  "muted": "#667085",
+  "grid": "#E5E7EB",
+  "diverging_low": "#3B4CC0",
+  "diverging_high": "#B40426",
+  "sequential_colormap": "viridis",
+  "max_categorical_hues": 10,
+  "notes": "Single source of truth for every script/panel (references/pitfalls.md #3). blue/red/green/amber/purple/text/muted/grid are the categorical + text/UI palette used by scripts/polish_figures.py and documented in references/visual-style.md -- do not hardcode alternate hex values elsewhere. diverging_low/diverging_high are a colorblind-safe blue-red pair for signed data (log2FC, z-score); never substitute a red-green pair (references/pitfalls.md #1). sequential_colormap is the default for continuous magnitude-only data (references/pitfalls.md #2); never use rainbow/jet. max_categorical_hues caps color-only category encoding before a redundant channel (shape/text/facet) is required (references/pitfalls.md #12)."
+}

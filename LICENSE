@@ -20,6 +20,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Scope: This license applies to the maintained scripts, tests and documents
-included in the public release. It does not cover optional local course
-materials under references/source-code/ or third-party datasets.
+Scope: This MIT license covers the previously published GBD helpers and
+documents under skills/gbd-burden-analysis only. It does not automatically
+license the other skills added to this collection. Those retain any original
+copyright and license notices; where no license is provided, public access
+does not itself grant unrestricted reuse rights. Third-party dependencies,
+datasets and excluded local teaching materials are not covered.

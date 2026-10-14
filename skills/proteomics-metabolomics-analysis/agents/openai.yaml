@@ -1,0 +1,4 @@
+interface:
+  display_name: "Proteomics Metabolomics Analysis"
+  short_description: "Proteomics, metabolomics and multi-omics figures"
+  default_prompt: "Use $proteomics-metabolomics-analysis to analyze my proteomics or metabolomics matrix, metadata, differential features and pathway figures."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Spatial Transcriptomics Analysis"
+  short_description: "Visium, spatial domains and spot-level figures"
+  default_prompt: "Use $spatial-transcriptomics-analysis to analyze my spatial transcriptomics data, spots, domains and marker maps."

@@ -1,0 +1,3 @@
+study_id	donor_id	sample_id	input_path	cells	nonzero_entries	file_size_bytes
+study_a	donor_01	sample_01	/data/sample_01.h5ad	250000	900000000	12000000000
+study_b	donor_02	sample_02	/data/sample_02.h5ad	450000	1600000000	22000000000

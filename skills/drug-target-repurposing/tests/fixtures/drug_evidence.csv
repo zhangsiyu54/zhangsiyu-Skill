@@ -1,0 +1,3 @@
+compound,target,mechanism,modulation_direction,approval_status,indication,potency,selectivity,dose,exposure_margin,route,tissue_penetration,target_organ_risk,population_constraint,renal_hepatic_constraint,interaction_flag,contraindication,trial_status,failure_reason,safety_flag,source
+DrugA,TARG1,inhibitor,inhibit,approved,Other,10nM,high,10mg,plausible,oral,yes,low,none,none,no,no,approved,,pass,DrugDB
+DrugB,TARG2,agonist,activate,approved,Other,20nM,high,10mg,plausible,oral,yes,low,none,none,no,no,approved,,pass,DrugDB

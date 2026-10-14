@@ -1,0 +1,4 @@
+interface:
+  display_name: "单细胞分析"
+  short_description: "单细胞Seurat和Scanpy常见流程与图件交付模板"
+  default_prompt: "Use $singlecell-analysis to run a standard single-cell RNA-seq workflow and generate QC, UMAP, marker, and proportion plots."

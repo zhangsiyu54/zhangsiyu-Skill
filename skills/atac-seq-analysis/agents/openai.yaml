@@ -1,0 +1,4 @@
+interface:
+  display_name: "ATAC-seq Analysis"
+  short_description: "Bulk ATAC, scATAC, peaks and motif workflows"
+  default_prompt: "Use $atac-seq-analysis to analyze my ATAC-seq or scATAC-seq peaks, metadata, motifs and accessibility figures."

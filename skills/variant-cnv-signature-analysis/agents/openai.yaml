@@ -1,0 +1,4 @@
+interface:
+  display_name: "Variant CNV Signature Analysis"
+  short_description: "Mutation, CNV and cancer signature workflows"
+  default_prompt: "Use $variant-cnv-signature-analysis to analyze my mutation, CNV or mutational signature tables and generate cancer genomics figures."

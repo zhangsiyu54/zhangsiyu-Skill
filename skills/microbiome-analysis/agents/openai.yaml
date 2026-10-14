@@ -1,0 +1,4 @@
+interface:
+  display_name: "Microbiome Analysis"
+  short_description: "16S, ASV, diversity and differential abundance"
+  default_prompt: "Use $microbiome-analysis to analyze my microbiome abundance table, metadata, diversity and differential taxa."

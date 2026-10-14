@@ -1,0 +1,4 @@
+interface:
+  display_name: "GWAS Causal Target Analysis"
+  short_description: "GWAS、MR、共定位、精细定位与分子靶点优先级分析"
+  default_prompt: "使用 $gwas-causal-target-analysis 对遗传汇总统计和分子 QTL 开展质控、因果推断、共定位及靶点优先排序。"

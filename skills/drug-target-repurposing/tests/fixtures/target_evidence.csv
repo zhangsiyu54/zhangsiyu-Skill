@@ -1,0 +1,5 @@
+target,disease,population,tissue,cell_type,spatial_region,desired_direction,evidence_class,source,estimate,uncertainty,direction,independence_group,qc_status,score
+TARG1,DiseaseX,adult,blood,immune,NA,inhibit,human_genetics,GWAS1,0.4,0.1,inhibit,genetics_1,pass,0.9
+TARG1,DiseaseX,adult,blood,immune,NA,inhibit,molecular_causality,QTL1,0.3,0.1,inhibit,qtl_1,pass,0.8
+TARG1,DiseaseX,adult,blood,immune,NA,inhibit,disease_context,CohortMeta,0.2,0.1,inhibit,expression_1,pass,0.7
+TARG2,DiseaseX,adult,blood,immune,NA,inhibit,disease_context,CohortMeta,0.2,0.1,inhibit,expression_2,pass,0.6

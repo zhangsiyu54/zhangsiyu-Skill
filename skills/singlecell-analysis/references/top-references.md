@@ -1,0 +1,25 @@
+# Top References
+
+- Butler A et al. Integrating single-cell transcriptomic data across different conditions, technologies, and species. Nature Biotechnology. 2018. https://doi.org/10.1038/nbt.4096
+- Stuart T et al. Comprehensive integration of single-cell data. Cell. 2019. https://doi.org/10.1016/j.cell.2019.05.031
+- Wolf FA, Angerer P, Theis FJ. SCANPY: large-scale single-cell gene expression data analysis. Genome Biology. 2018. https://doi.org/10.1186/s13059-017-1382-0
+- Luecken MD, Theis FJ. Current best practices in single-cell RNA-seq analysis: a tutorial. Molecular Systems Biology. 2019. https://doi.org/10.15252/msb.20188746
+- Crowell HL et al. muscat detects subpopulation-specific state transitions from multi-sample multi-condition single-cell transcriptomics data. Nature Communications. 2020. https://doi.org/10.1038/s41467-020-19894-4
+- Jin S et al. Inference and analysis of cell-cell communication using CellChat. Nature Communications. 2021. https://doi.org/10.1038/s41467-021-21246-9
+- Squair JW, Gautier M, Kathe C, Anderson MA, James ND, Hutson TH, Hudelle R, Qaiser T, Matson KJE, Barraud Q, Levine AJ, La Manno G, Skinnider MA, Courtine G. Confronting false discoveries in single-cell differential expression. Nature Communications. 2021;12(1):5692. https://doi.org/10.1038/s41467-021-25960-2
+- Zimmerman KD, Espeland MA, Langefeld CD. A practical solution to pseudoreplication bias in single-cell studies. Nature Communications. 2021;12(1):738. https://doi.org/10.1038/s41467-021-21038-1
+- McGinnis CS, Murrow LM, Gartner ZJ. DoubletFinder: Doublet Detection in Single-Cell RNA Sequencing Data Using Artificial Nearest Neighbors. Cell Systems. 2019;8(4):329-337.e4. https://doi.org/10.1016/j.cels.2019.03.003
+- Wolock SL, Lopez R, Klein AM. Scrublet: Computational Identification of Cell Doublets in Single-Cell Transcriptomic Data. Cell Systems. 2019;8(4):281-291.e9. https://doi.org/10.1016/j.cels.2018.11.005
+- Xi NM, Li JJ. Benchmarking Computational Doublet-Detection Methods for Single-Cell RNA Sequencing Data. Cell Systems. 2021;12(2):176-194.e6. https://doi.org/10.1016/j.cels.2020.11.008
+- Young MD, Behjati S. SoupX removes ambient RNA contamination from droplet-based single-cell RNA sequencing data. GigaScience. 2020;9(12):giaa151. https://doi.org/10.1093/gigascience/giaa151
+- Germain PL, Lun A, Garcia Meixide C, Macnair W, Robinson MD. Doublet identification in single-cell sequencing data using scDblFinder. F1000Research. 2021 (v2 2022);10:979. https://doi.org/10.12688/f1000research.73600.2
+- Korsunsky I, Millard N, Fan J, Slowikowski K, Zhang F, Wei K, Baglaenko Y, Brenner MB, Loh PR, Raychaudhuri S. Fast, sensitive and accurate integration of single-cell data with Harmony. Nature Methods. 2019;16(12):1289-1296. https://doi.org/10.1038/s41592-019-0619-0
+- Lopez R, Regier J, Cole MB, Jordan MI, Yosef N. Deep generative modeling for single-cell transcriptomics. Nature Methods. 2018;15(12):1053-1058. https://doi.org/10.1038/s41592-018-0229-2
+- Tran HTN, Ang KS, Chevrier M, Zhang X, Lee NYS, Goh M, Chen J. A benchmark of batch-effect correction methods for single-cell RNA sequencing data. Genome Biology. 2020;21(1):12. https://doi.org/10.1186/s13059-019-1850-9
+- Luecken MD, Büttner M, Chaichoompu K, Danese A, Interlandi M, Mueller MF, Strobl DC, Zappia L, Dugas M, Colomé-Tatché M, Theis FJ. Benchmarking atlas-level data integration in single-cell genomics. Nature Methods. 2022;19(1):41-50. https://doi.org/10.1038/s41592-021-01336-8
+- Street K, Risso D, Fletcher RB, Das D, Ngai J, Yosef N, Purdom E, Dudoit S. Slingshot: cell lineage and pseudotime inference for single-cell transcriptomics. BMC Genomics. 2018;19(1):477. https://doi.org/10.1186/s12864-018-4772-0
+- Cao J, Spielmann M, Qiu X, Huang X, Ibrahim DM, Hill AJ, Zhang F, Mundlos S, Christiansen L, Steemers FJ, Trapnell C, Shendure J. The single-cell transcriptional landscape of mammalian organogenesis. Nature. 2019;566(7745):496-502. https://doi.org/10.1038/s41586-019-0969-x
+- Saelens W, Cannoodt R, Todorov H, Saeys Y. A comparison of single-cell trajectory inference methods. Nature Biotechnology. 2019;37(5):547-554. https://doi.org/10.1038/s41587-019-0071-9
+- Efremova M, Vento-Tormo M, Teichmann SA, Vento-Tormo R. CellPhoneDB: inferring cell-cell communication from combined expression of multi-subunit ligand-receptor complexes. Nature Protocols. 2020;15(4):1484-1506. https://doi.org/10.1038/s41596-020-0292-x
+- Dimitrov D, Türei D, Garrido-Rodriguez M, Burmedi PL, Nagai JS, Boys C, Ramirez Flores RO, Kim H, Szalai B, Costa IG, Valdeolivas A, Dugourd A, Saez-Rodriguez J. Comparison of methods and resources for cell-cell communication inference from single-cell RNA-Seq data. Nature Communications. 2022;13(1):3224. https://doi.org/10.1038/s41467-022-30755-0
+- Browaeys R, Saelens W, Saeys Y. NicheNet: modeling intercellular communication by linking ligands to target genes. Nature Methods. 2020;17(2):159-162. https://doi.org/10.1038/s41592-019-0667-5

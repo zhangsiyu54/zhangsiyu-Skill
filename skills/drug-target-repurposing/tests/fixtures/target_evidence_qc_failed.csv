@@ -1,0 +1,2 @@
+target,disease,population,tissue,cell_type,spatial_region,desired_direction,evidence_class,source,estimate,uncertainty,direction,independence_group,qc_status,score
+TARG3,DiseaseX,adult,blood,immune,NA,inhibit,human_genetics,GWAS3,0.4,0.1,inhibit,genetics_3,fail,0.9

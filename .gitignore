@@ -1,10 +1,10 @@
 .DS_Store
+__pycache__/
+*.pyc
 .Rhistory
 .RData
-.Rproj.user/
-__pycache__/
 .env
-results/
-data/
-references/source-code/
-**/references/source-code/
+.env.*
+**/output/
+**/source-code/
+Rplots.pdf

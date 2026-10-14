@@ -1,0 +1,4 @@
+interface:
+  display_name: "Public Omics Meta-analysis"
+  short_description: "公共组学队列检索、元数据治理、再分析与Meta分析"
+  default_prompt: "使用 $public-omics-meta-analysis 构建公共多队列组学的纳入、统一、效应量合并和独立验证流程。"
