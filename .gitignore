@@ -1,0 +1,10 @@
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+.env
+results/
+data/
+references/source-code/
+**/references/source-code/

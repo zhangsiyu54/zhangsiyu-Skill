@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite this software when using the maintained GBD analysis helpers."
+title: "GBD Burden Analysis Skill"
+type: software
+authors:
+  - family-names: "Zhang"
+    given-names: "Siyu"
+    orcid: "https://orcid.org/0009-0005-5383-541X"
+version: "0.2.0"
+date-released: "2026-10-14"
+abstract: "Agent Skill with base-R validation, stratified EAPC estimation and Shapley decomposition of changes in disease burden counts."

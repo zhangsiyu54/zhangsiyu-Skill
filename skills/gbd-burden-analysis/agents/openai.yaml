@@ -1,0 +1,4 @@
+interface:
+  display_name: "GBD Burden Analysis"
+  short_description: "Validate GBD exports, estimate trends and decompose burden"
+  default_prompt: "Use $gbd-burden-analysis to validate my GBD exports, estimate EAPC and decompose changes in burden."

@@ -1,0 +1,21 @@
+{
+  ".github/workflows/test.yml": "7d94345522c6ff4a4869d12ef1b53600dfbac41c33666f7b7ca945ffdbfece8f",
+  ".gitignore": "5316e16e109632ec74caa00fb334b3dc33530216143e9f94419721586ffdd3a8",
+  "CITATION.cff": "7a20cb258333f34e5a3f6112e287c3747b2382c668f80839c5efedfd2a1647ec",
+  "LICENSE": "16885b5052c91f3a11083bcfe0ee97ffa32edc94a6ca241b61efe928b59464e4",
+  "README.md": "b3e721dfdcf7d4827ed596d0cde58d888e659d1ced18b692ff6cd11b059ddcc0",
+  "skills/gbd-burden-analysis/CITATION.cff": "7a20cb258333f34e5a3f6112e287c3747b2382c668f80839c5efedfd2a1647ec",
+  "skills/gbd-burden-analysis/LICENSE": "16885b5052c91f3a11083bcfe0ee97ffa32edc94a6ca241b61efe928b59464e4",
+  "skills/gbd-burden-analysis/README.md": "d8d32ff04a90d9c7bd856301f61d7c4ea484317f07eef6f56d558d26062d186a",
+  "skills/gbd-burden-analysis/SKILL.md": "ad3555af4b7e84ecb2b3a5dd5b9cef63048fb405b8375f9f04047f8ef8fa920d",
+  "skills/gbd-burden-analysis/agents/openai.yaml": "109bef88f9b6f7c2e6ac3579c972567308478a0145547a1b29ddb05511b5e6d3",
+  "skills/gbd-burden-analysis/references/dependencies.md": "833a7b9560c90260ce89d01a87feedf78a09705e02b4704e40fc86ca37c7861c",
+  "skills/gbd-burden-analysis/references/input-schema.md": "2189b4aac49f416f3e999217348197811357ccc5324533e32d0b87eac3429882",
+  "skills/gbd-burden-analysis/references/module-index.md": "7645eb4ce6b6d590d642d18286f2f519e9014fb203becb287e072dec6e987311",
+  "skills/gbd-burden-analysis/references/source-audit.md": "3998de576a72f5691bc6cb2f258379f572891b3ce82a98eecd518da6643e9762",
+  "skills/gbd-burden-analysis/scripts/check_dependencies.R": "39180bc423e509e5ce5f2548696410becd23236aecd1d2853c079390dc7d808d",
+  "skills/gbd-burden-analysis/scripts/gbd_core.R": "c317da12ec782871075b6be96e4fa79ebd0b78075c0d2915ea7939a17f26f545",
+  "skills/gbd-burden-analysis/scripts/run_analysis.R": "ff0a9be3fc1764efbc8f3cc26c85f86dc1510b92d8f557db062958f5f3b774e7",
+  "skills/gbd-burden-analysis/scripts/validate_gbd_input.R": "3d5fb9c25511f782c9040563d46133cca6747d4e182117694def2e74c6860e6c",
+  "skills/gbd-burden-analysis/tests/test_core.R": "1da63a3334ea7f83b23844bc523a803127cfcb9ff160ebde0a6e9f19e2e2ff74"
+}
